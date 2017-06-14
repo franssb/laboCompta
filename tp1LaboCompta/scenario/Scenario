@@ -4,5 +4,10 @@
 	
 	
 	
-		• le programme dis bonjour dans l'environnement application-0.0.1-SNAPSHOT
-		• demander creer nouveau compte
+		• le programme dis bonjour dans l'environnement application-0.0.1-SNAPSHOT	v
+		• demande si on veux creer(1) nouveau comptes ou voir(2) comptes (1-2-q)	v
+		• l'utilisateur rentre 1 pour creer un compte ('temporaire' affiche creer nouveau compte blblbl)	v
+		
+		• creer nouveau compte ->... demande num, libellé, pos dans le bilan et subdivisabl
+			• creer compte général définir si subdivisable
+		• permet d'entrer si le comptes est divisible ou non
